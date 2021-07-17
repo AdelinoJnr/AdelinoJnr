@@ -1,5 +1,6 @@
 <h1 align = "center"> Oi 👋, Eu sou Adelino Junior </h1>
 <h3 align = "center"> Desenvolvedor FrontEnd | Trybe </h3>
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
