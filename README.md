@@ -1,7 +1,7 @@
 # Oi 👋, Me chamo Adelino Junior.
 
-<button>Linkedin</button>
-<button>Email</button>
+<button><a href="https://www.linkedin.com/in/adelinojr/">Linkedin</a></button>
+<button><a href="https://www.linkedin.com/in/adelinojr/">Email</a></button>
 
 ## Sobre mim
 
