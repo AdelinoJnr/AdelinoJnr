@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinoJnr)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinoJnr)](https://github.com/anuraghazra/github-readme-stats)
 
-## 😆 Sobre mim:
+## Sobre mim:
 
 👨🏼‍🎓 Sou um desenvolvedor de software que atualmente está estudando na <a href="https://www.betrybe.com/">Trybe</a>.
 <br>
@@ -18,7 +18,7 @@
 
 <br>
 
-##  💻 Tecnologias: 
+## Tecnologias: 
 <p display=flex>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
