@@ -1,7 +1,7 @@
 # Oi 👋, Me chamo Adelino Junior.
 
-<a href="mailto:sevilharenzo@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/renzo-sevilha/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:adelinojunior96@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/adelinojr/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <br>
 
