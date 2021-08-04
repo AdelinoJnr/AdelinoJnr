@@ -8,17 +8,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinoJnr)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinoJnr)](https://github.com/anuraghazra/github-readme-stats)
 
-## Sobre mim:
+## 🙍🏼‍♂️ Sobre mim:
 
 👨🏼‍🎓 Sou um desenvolvedor de software que atualmente está estudando na <a href="https://www.betrybe.com/">Trybe</a>.
 <br>
 💭 Tenho um sonho de ser lembrado por algo. Desenvolver algo que possa agregar na vida de pessoas vai me deixar um passo mais perto do meu sonho.
 <br>
 🤓 Com foco na constante absorção de informações sobre tecnologia, visando meu aprimoramento pessoal e colaborativo.
-
-<br>
-<hr>
-<br>
 
 <br>
 <hr>
