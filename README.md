@@ -12,7 +12,7 @@
 
 👨🏼‍🎓 Sou um desenvolvedor de software que atualmente está estudando na <a href="https://www.betrybe.com/">Trybe</a>.
 <br>
-💭 Tenho um sonho de ser lembrado por algo. Desenvolver algo que possa agregar na vida de pessoas vai me deixar um passo mais perto do meu sonho.
+💭 Tenho um sonho de ser lembrado. Desenvolver algo que possa agregar na vida de pessoas vai me deixar um passo mais perto desse sonho.
 <br>
 🤓 Com foco na constante absorção de informações sobre tecnologia, visando meu aprimoramento pessoal e colaborativo.
 
