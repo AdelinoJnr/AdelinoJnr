@@ -6,15 +6,15 @@
 
 # Sobre mim:
 
-👨🏼‍🎓 Sou um desenvolvedor de software que atualmente está estudando na <a href="https://www.betrybe.com/">Trybe</a>.
-<br>
-💭 Tenho um sonho de ser lembrado. Desenvolver algo que possa agregar na vida de pessoas vai me deixar um passo mais perto desse sonho.
-<br>
-🤓 Com foco na constante absorção de informações sobre tecnologia, visando meu aprimoramento pessoal e colaborativo.
+- Desenvolvedor FullStack 🍀.
+- Atualmente estou estudando na <a href="https://www.betrybe.com/">Trybe</a> 👨🏼‍🎓.
+- Busco evoluir constantemente com a evolução da tecnologia 🤓.
+
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinoJnr&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinoJnr&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinoJnr&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # Tecnologias:
 
@@ -43,14 +43,12 @@
   <img height="50" width="50" src="https://testing-library.com/img/octopus-128x128.png" alt="reac testing library"/>
 </div>
 
-<img src="" alt="" width="" height="" />
-
 ## Ferramentas:
 <div display="flex">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Trello" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
 </div>
-
 
